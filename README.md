@@ -1,5 +1,5 @@
 Need PHP, Laravel, Composer and Node.
-To run use the commands
+<br> To run use the commands </br>
 ```
 npm install
 npm run dev
