@@ -3,8 +3,9 @@ Need PHP, Laravel, Composer and Node.
 ```
 npm install
 composer install
-npm run dev
 php artisan migrate
+composer update
+npm run dev
 php artisan serve 
 
 ```
