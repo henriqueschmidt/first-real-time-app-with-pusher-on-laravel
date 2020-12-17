@@ -4,16 +4,17 @@ Need PHP, Laravel, Composer and Node.
 npm install
 composer install
 npm run dev
+php artisan migrate
 php artisan serve 
 
 ```
 <br>
 <h3> Pages </h3>
 <ul>
+  <li> /chat </li>
   <li> /users </li> 
   <li> /login </li> 
   <li> /register </li> 
   <li> /password/reset </li> 
-  <li> /game </li> 
-  <li> /chat </li> 
+<!--   <li> /game </li>    -->
 </ul>
