@@ -15,4 +15,5 @@ php artisan serve
   <li> /register </li> 
   <li> /password/reset </li> 
   <li> /game </li> 
+  <li> /chat </li> 
 </ul>
